@@ -1,0 +1,4 @@
+name = "LibFEM"
+uuid = "3059c2e5-ed9e-405d-a7ef-a234820d8d89"
+authors = ["AmauryDeldicque"]
+version = "0.1.0"
